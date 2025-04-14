@@ -1,5 +1,3 @@
-Understood. I will conduct a detailed comparison between Lix (by Determinate Systems) and Nix when used on NixOS, covering all aspects such as technical architecture, performance, use cases, compatibility, configuration changes, and improvements needed for better use of Lix.
-I'll let you know once the findings are ready.
 
 # Lix vs Nix on NixOS: A Comprehensive Comparison
 
