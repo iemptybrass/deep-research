@@ -1,6 +1,6 @@
 # Deep Research:
 
-This repository contains detailed findings and analyses generated using chatgpts Deep Research.
+This repository contains detailed findings and analyses generated using chatgpt's Deep Research.
 
 ## Summary
 
